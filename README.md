@@ -5,7 +5,10 @@
 # Required Modules
 
 * Colorama
-
+# Note
+###
+* The Script Are Made For Testing Purposes only. Do Not Perform Any Ilegal Activity.  I won't be responsible for that.
+###
 # Commands Usage
 ###
 * python scan.py --help ~ For Help
