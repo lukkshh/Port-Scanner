@@ -126,5 +126,3 @@ elif len(sys.argv) > 2 < 3:
         print(" Unknow Property")
         print(" Type '--help'")
         sys.exit()
-
-    
