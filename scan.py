@@ -1,4 +1,4 @@
-import socket , colorama , sys , threading , os
+import socket , colorama , sys , os
 from colorama import Fore , init
 init()
 def scan(target):
