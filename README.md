@@ -9,7 +9,7 @@
 # Commands Usage
 ###
 
-* python scan.py {IP} {COMMAND}
+* python scan.py { IP }  { COMMAND }
 
 # Screenshots
    
