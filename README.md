@@ -9,7 +9,7 @@
 # Commands Usage
 ###
 * python scan.py --help ~ For Help
-* ###
+###
 * python scan.py { IP }  { COMMAND }
 ###
 * -a  ~  Scan All Ports
