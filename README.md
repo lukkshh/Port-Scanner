@@ -7,7 +7,9 @@
 * Colorama
 # Note
 ###
-* The Script Are Made For Testing Purposes only. Do Not Perform Any Ilegal Activity.  I won't be responsible for that.
+* The Script Are Made For Testing Purposes only. 
+* Do Not Perform Any Ilegal Activity.  
+* I won't be responsible for that.
 ###
 # Commands Usage
 ###
