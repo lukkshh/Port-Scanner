@@ -12,6 +12,8 @@
 ###
 * python scan.py { IP }  { COMMAND }
 ###
+* Or Run Directly
+###
 * -a  ~  Scan All Ports
 ###
 * -p  ~  Scan Specified Port
