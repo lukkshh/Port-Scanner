@@ -12,7 +12,7 @@
 ###
 * python scan.py { IP }  { COMMAND }
 ###
-* Or Run Directly
+* Or Run Directly Using: ~  python scan.py
 ###
 * -a  ~  Scan All Ports
 ###
