@@ -8,9 +8,13 @@
 
 # Commands Usage
 ###
-
+* python scan.py --help  For Help
 * python scan.py { IP }  { COMMAND }
-
+###
+* -a  -  Scan All Ports
+###
+* -p  -  Scan Specified Port
+###
 # Screenshots
 ###
 ![scanall](https://user-images.githubusercontent.com/97388997/187901280-1a0ffcc0-000e-47d9-a14f-40c847c820c4.PNG)
